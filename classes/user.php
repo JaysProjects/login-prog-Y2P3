@@ -1,6 +1,6 @@
 <?php
     // Functie: classdefinitie User 
-    // Auteur: Wigmans
+    // Auteur: Jahden Pedro
 
     class User{
 
