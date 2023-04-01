@@ -1,0 +1,16 @@
+html {
+    text-align: center;
+}
+
+.inputfield {
+    padding: 15px;
+    border-radius: 10px;
+}
+
+#login {
+    padding: 5px 30px 5px 30px;
+    border-radius: 10px;
+    color: black;
+    text-decoration: none;
+    background-color: aqua;
+}
